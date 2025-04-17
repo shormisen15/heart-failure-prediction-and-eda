@@ -77,6 +77,39 @@ The pipeline includes data preprocessing, feature engineering, model training, e
 The final models achieved high performance metrics, demonstrating the potential to assist in early detection of heart disease risks based on simple, non-invasive factors.
 </p>
 
+<h2>🔮 Future Scope</h2>
+
+<ul>
+  <li><strong>Integration with Real-Time Health Monitoring Systems:</strong> 
+    <br>Deploy the model into wearable devices or mobile health applications for real-time heart health monitoring.
+  </li>
+  <br>
+  
+  <li><strong>Expansion to Multi-Class Classification:</strong> 
+    <br>Instead of binary classification (HeartDisease: Yes/No), future models could predict different types or stages of heart diseases.
+  </li>
+  <br>
+  
+  <li><strong>Incorporation of More Diverse Datasets:</strong> 
+    <br>Enhance model generalizability by training on global datasets with varied demographic and genetic backgrounds.
+  </li>
+  <br>
+
+  <li><strong>Explainable AI (XAI):</strong> 
+    <br>Implement techniques like SHAP or LIME to better explain the model’s decisions to healthcare professionals.
+  </li>
+  <br>
+
+  <li><strong>Deep Learning Approaches:</strong> 
+    <br>Explore the use of deep neural networks and ensemble methods to further boost predictive performance.
+  </li>
+  <br>
+
+  <li><strong>Automated Hyperparameter Optimization:</strong> 
+    <br>Apply techniques like Grid Search, Random Search, or Bayesian Optimization to fine-tune model parameters automatically.
+  </li>
+</ul>
+
 <h2>🤝 Contributing</h2>
 <p>
 Contributions, issues, and feature requests are welcome! Feel free to check the <code>issues</code> page.
